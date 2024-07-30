@@ -1,2 +1,2 @@
-# world-s-smallest-finding-primes
-here. world's smallest program to find prime numbers in python.
+## smallest-program to find primes.
+here. smallest program to find prime numbers in python.
