@@ -8,4 +8,4 @@ def s(n):
 for i in range(3,int(input("N:"))+1):
     if s(i):
         m+=[i]
-print(f"{len(m)}{m}")
+print(len(m),m)
